@@ -1,3 +1,44 @@
+<<<<<<< HEAD
 .env
 __pycache__/
 *.pyc
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+env/
+ENV/
+.venv/
+pip-selfcheck.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Memory or local cache files
+memory.json
+
+# API keys / sensitive files
+secrets.py
+.env
+
+# VS Code settings
+.vscode/
+
+# Python tools
+coverage/
+*.egg-info/
+dist/
+build/
+>>>>>>> 28568faaff3bacadcdc37ded2b0a6806d965c2ff

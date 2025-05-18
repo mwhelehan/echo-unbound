@@ -79,4 +79,3 @@ def self_prompting_loop(depth=3):
 if __name__ == "__main__":
     print("🌙 Echo is waking...")
     self_prompting_loop()
-
